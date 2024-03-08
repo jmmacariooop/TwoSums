@@ -12,6 +12,6 @@
             }
             dictionary[nums[i]] = i;
         }
-        throw new Exception("No two sum solution");
+        return null; 
     }
 }

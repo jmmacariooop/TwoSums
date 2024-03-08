@@ -2,6 +2,10 @@
 {
     static void Main(string[] args)
     {
+        //int[] nums = { 6, 7, 1, 5, 6 };
+        //int target = 21;
+        //Will return No two numbers in the array add up to 21 
+
         int[] nums = { 82, 56, 45, 12, 71, 54 };
         int target = 116;
 
